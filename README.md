@@ -8,9 +8,6 @@
 
 ---
 
-## 📸  
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
-
 ---
 
 🚀 **Keep Coding & Stay Curious!** 🔥
